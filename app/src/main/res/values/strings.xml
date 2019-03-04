@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">implicitIntent</string>
+    <string name="edittext_uri">ENTER LINK </string>
+    <string name="button_uri">VISIT LINK</string>
+    <string name="edittext_loc">Visit Location</string>
+    <string name="button_loc">VISIT LOCATION</string>
+    <string name="edittext_share"> ENTER TEXT </string>
+    <string name="button_share">SHARE TEXT </string>
+
+</resources>
